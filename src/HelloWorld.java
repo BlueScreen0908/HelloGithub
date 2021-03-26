@@ -1,6 +1,6 @@
 /**
  * @author BlueScreen
- * @date 2021-03-23 - 21:23
+ * @create 2021-03-23 - 21:23
  */
 public class HelloWorld {
     public static void main(String[] args) {
@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("3333");
         System.out.println("aaaa");
         System.out.println("bbbb");
+        System.out.println("cccc");
     }
 }
